@@ -25,7 +25,7 @@ try:
 
     # Train the model
     model.train(
-       data='/Users/evanzhao/code/REU/code/data_set/config.yaml',  # Path to the data configuration file
+       data='/path/to/config.yaml',  # Path to the data configuration file
         epochs=800,
         batch=60,
         workers=8, #or how many cores you have
