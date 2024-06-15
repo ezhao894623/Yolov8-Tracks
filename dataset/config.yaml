@@ -1,0 +1,10 @@
+path: /exact/path/to/dataset # dataset root dir
+train: /exact/path/to/dataset/images/training  # train images 
+val: /exact/path/to/dataset/images/validation # val images 
+
+# Classes
+names:
+  0: tags
+  1: tags
+
+  #input the tags name here i.e if ur training dogs and cats, then check with your annotations and match them here.
