@@ -1,5 +1,5 @@
 # Yolov8-Tracks
-REU Project
+REU Project (Mac)
 This guide will help you set up the necessary prerequisites for using YOLOv8. Follow the steps below to ensure you have everything in place to start working with this powerful object detection model.
 
 Prerequisites
